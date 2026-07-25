@@ -13,10 +13,12 @@
 - `git commit -m "第一次提交"`                    # 提交
 - `git remote add origin https://github.com/你的用户名/仓库名.git`   # 关联远程仓库
 - `git push -u origin master`                   # 推送到 GitHub
-- origin默认的仓库名称，也可以是my-project，，，，
+- origin是远程仓库地址的默认别名——它是那串 URL 的代称，不是仓库的名字。起这个名字只是约定俗成，你完全可以改成 upstream 或别的，它指的还是那串地址。
 # 终端git commit操作
 - `git add . `                          # 把所有修改加入暂存区
 - `git commit -m "写清楚你改了什么"`      # 提交
 - `git push `                           # 推送到 GitHub
 # 修改上一次git的标题
 - `git commit --amend -m "新标题"`
+# 词源
+- diff = difference、restore = re+store 放回存过的状态、amend = 修正、origin = 源头
