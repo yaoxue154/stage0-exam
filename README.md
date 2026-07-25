@@ -4,3 +4,4 @@
 - 天生对机器人有着浓厚的兴趣，想要参加robomaster的rmul，也为将来的就业提高一些简历的含金量
 # 学习进度
 - 目前学习了简单的终端使用，git的基础操作，markdown的简单语法，比如``echo "MIMI">>XX.txt`` `echo` ***NIH***
+# kimi猜猜我在哪个学校
